@@ -1,0 +1,39 @@
+body{
+	background-color:#ebebf0;
+	color:#000000;
+	font-family:cursive;
+	text-align:center;
+}
+div{
+	border:hidden;
+	border-radius:20px;
+	margin:30px 200px 30px 200px;
+	padding:15px 50px 15px 50px;
+	box-shadow:15px 15px 15px black;
+}
+ul{
+	text-align:center;
+	list-style-position:inside;
+}
+h1{
+	color:#000261;
+}
+h2{
+	color:#0400ff;
+}
+h4{
+	color:#309c9a;
+}
+strong{
+	
+}
+a{
+	text-decoration:none;
+	color:#471c69;
+}
+a:hover{
+	color:#0d05ff;
+}
+img{
+	border-radius:15px;
+}
